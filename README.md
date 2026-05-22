@@ -1,8 +1,5 @@
 # Adaptive Traffic Signal Control System for Real-Time Optimization of Vehicular Flow at Urban Intersections
 
-**Developer:** Jemimah Asma'u Kyauta Thompson | Matric: 21CK029344  
-**Institution:** Covenant University, Ota, Ogun State  
-**Technical Implementation:** Deewansonic Engineering  
 **Portfolio:** Damilare Lekan Adekeye  
 **Status:** Completed
 
