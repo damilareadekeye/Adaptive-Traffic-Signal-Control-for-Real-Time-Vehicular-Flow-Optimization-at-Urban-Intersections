@@ -147,4 +147,4 @@ Install via Arduino Library Manager:
 ## Portfolio
 
 Full build documentation, 134 build photos, circuit diagrams, and project detail page:  
-https://damilarelekanadekeye.github.io/works/embedded-systems/adaptive-traffic-signal/
+https://damilareadekeye.com/works/embedded-systems/adaptive-traffic-signal/
